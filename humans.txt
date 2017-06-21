@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Farhan fhaq@evertz.com
 
 # THANKS
 
